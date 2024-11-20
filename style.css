@@ -11,7 +11,7 @@
     
     border: 2px solid red;
 }
-.carousel-bg {
+.bg {
     background-color: bisque;
 }
 .carousel {
@@ -62,3 +62,18 @@
         height: 40%;
     }
 }
+#Subscribe {
+    height: 300px;
+    h6 {
+        color: grey;
+    }
+}
+footer {
+    border-top: 2px solid #3d72a7; /* Adds a light border for separation */
+}
+
+footer p {
+    font-size: 0.9rem; /* Adjust font size for readability */
+    color: #dcdcdc; /* Softer text color for modern look */
+}
+
